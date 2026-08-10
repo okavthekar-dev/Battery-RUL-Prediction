@@ -211,10 +211,3 @@ The final Random Forest model was saved using **Joblib**.
 
 ```text
 models/battery_rul_random_forest.pkl
-
-
----
-
-## 👤 Author
-
-**Omkar Kavathekar**
